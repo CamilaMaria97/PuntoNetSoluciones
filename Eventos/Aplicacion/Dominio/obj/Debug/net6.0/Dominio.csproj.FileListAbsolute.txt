@@ -1,0 +1,12 @@
+D:\Prueba\Eventos\Aplicacion\Dominio\bin\Debug\net6.0\Dominio.deps.json
+D:\Prueba\Eventos\Aplicacion\Dominio\bin\Debug\net6.0\Dominio.dll
+D:\Prueba\Eventos\Aplicacion\Dominio\bin\Debug\net6.0\Dominio.pdb
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.dll
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\Dominio.pdb
+D:\Prueba\Eventos\Aplicacion\Dominio\obj\Debug\net6.0\ref\Dominio.dll
